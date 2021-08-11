@@ -1,4 +1,4 @@
-# WiFi_CSI_Respirotary
+# WiFi_CSI_Respiration
 本仓库是毕业设计《基于无线信号非静止状态呼吸心跳检测》的概念验证代码，其中各目录包含的部分如下说明：
 
 * **data:** 部分收集到的CSI数据
